@@ -1,7 +1,7 @@
 {
     "name": "todo_infinite",
     "short_name": "todo_infinite",
-    "start_url": "/todo_infinite/",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
